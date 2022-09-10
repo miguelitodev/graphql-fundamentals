@@ -38,6 +38,8 @@
 
 It's a very simple project to learn the fundamentals of GraphQL in React, so in this project a backend and a frontend were made, where there was data registration and request, I did it by following a rocketseat video
 
+<a href="https://youtu.be/6SZOPKs9SUg">Link of video</a>
+
 ## :sparkles: Features
 
 :heavy_check_mark: Request with GraphQL a list of users;\
