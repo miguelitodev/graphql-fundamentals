@@ -42,7 +42,7 @@ It's a very simple project to learn the fundamentals of GraphQL in React, so in 
 
 :heavy_check_mark: Request with GraphQL a list of users;\
 :heavy_check_mark: Register a new user with GraphQL;\
-:heavy_check_mark: Simple system of cache;
+:heavy_check_mark: Simple system of cache;\
 :heavy_check_mark: Backend & Frontend together;
 
 ## :rocket: Technologies
